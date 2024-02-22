@@ -27,6 +27,14 @@
 
 ## 프로젝트
 
+### 23.11.16 - 23.11.23 SSAFY 관통 프로젝트 - 금융 추천 사이트 프로젝트
+
+- 역할
+
+  - 회원가입, 로그인 백엔드 및 프론트엔드
+  - 카카오맵 api 지도 검색
+  - 금융상품 추천 (k-means clustering)
+
 - 24.01.08 - 24.02.16 SSAFY 공통 프로젝트 - 카카오맵 API 기반 산책 커뮤니티 서비스 'walkytalky' 프론트엔드 개발
 <!--
 **DKIMDK/DKIMDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
